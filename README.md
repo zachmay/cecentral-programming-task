@@ -1,5 +1,6 @@
-# interview-task
-Starting point for interview coding exercise
+# cecentral-programming-task
+
+A short coding exercise.
 
 ## Setup
 
